@@ -14,7 +14,6 @@ document.addEventListener('mouseout', () => {
     cursor.style.display = 'none';
 });
 
-a.onmouseover
 
 const navSlide = () => {
   const burger = document.querySelector(".burger");
